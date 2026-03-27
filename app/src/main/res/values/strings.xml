@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">FC_007</string>
+    <string name="app_name">Tilt Arena</string>
+    <string name="title">Tilt Arena</string>
+    <string name="subtitle">Use the accelerometer to steer the ball inside the open-top arena.</string>
+    <string name="sensor_status_ready">Accelerometer online</string>
+    <string name="sensor_status_missing">Accelerometer missing</string>
+    <string name="sensor_message_ready">Live motion control is active. Tilting the device updates the ball in real time.</string>
+    <string name="sensor_message_missing">This device does not expose an accelerometer, so motion control is unavailable.</string>
+    <string name="axis_x">X-axis</string>
+    <string name="axis_y">Y-axis</string>
+    <string name="axis_z">Z-axis</string>
+    <string name="readout_placeholder">--</string>
+    <string name="readout_value_format">%.2f</string>
+    <string name="arena_label">Movement Arena</string>
+    <string name="arena_hint">Lay the device mostly flat for the most natural movement.</string>
+    <string name="sensitivity_label">Sensitivity</string>
+    <string name="sensitivity_value_format">%.1fx</string>
+    <string name="sensitivity_hint">Higher sensitivity increases speed. Smoothing helps reduce jitter.</string>
 </resources>

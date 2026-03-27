@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="midnight_950">#08131B</color>
+    <color name="midnight_900">#0E2230</color>
+    <color name="midnight_800">#163647</color>
+    <color name="teal_400">#5CD1C7</color>
+    <color name="sand_200">#F4E5C3</color>
+    <color name="amber_400">#F7B955</color>
+    <color name="coral_400">#FF8E72</color>
+    <color name="surface_100">#F8FBFD</color>
+    <color name="surface_200">#DCEAF2</color>
+    <color name="text_primary">#EAF7FF</color>
+    <color name="text_secondary">#B3CBD8</color>
+    <color name="success_300">#B8F0C8</color>
+    <color name="success_700">#1E6B41</color>
+    <color name="danger_300">#FFD7CE</color>
+    <color name="danger_700">#7F3122</color>
+    <color name="wall_blue">#7DB4D6</color>
 </resources>
